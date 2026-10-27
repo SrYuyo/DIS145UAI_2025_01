@@ -1,0 +1,10 @@
+# Credenciales WiFi / Arduino Cloud (usar las plantillas *.example.h)
+arduino_secrets.h
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Compilaciones de Arduino CLI / Processing
+build/
+application.*/
